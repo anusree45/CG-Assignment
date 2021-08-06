@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1628225224 source:c:\users\johnn\desktop\cgv_program\eclipse\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<math.h>
+
+1426327440 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1437534942 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
